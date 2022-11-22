@@ -1,0 +1,21 @@
+{
+  "name": "playwright-demo",
+  "version": "1.0.0",
+  "description": "playwright-demo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krish-r/playwright-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krish-r/playwright-demo/issues"
+  },
+  "homepage": "https://github.com/krish-r/playwright-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.0"
+  }
+}
